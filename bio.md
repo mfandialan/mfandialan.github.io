@@ -1,4 +1,4 @@
-### [HOME](https://mfandialan.github.io/)
+### [HOME](mfandialan.github.io/index)
 
 # About Michael Fandialan
 
