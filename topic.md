@@ -1,4 +1,4 @@
-[HOME](index)
+### [HOME](index)
 
 ## Professional Gaming
 ---
