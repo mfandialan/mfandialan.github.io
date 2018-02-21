@@ -10,3 +10,9 @@ Here are a few interesting facts about me and my life. It been quite a journey f
 1. ***Enjoying video games undistracted.*** I currently playing:
 + Monster Hunter World
 + Dissidia NT Final Fantasy
+
+*Here is two photos of me and my wife, Jashni, and of our dog Kuni.*
+
+![Alt](Family.JPG)
+![Alt](Kuni.JPG)
+
