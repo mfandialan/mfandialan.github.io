@@ -7,7 +7,7 @@ Here are a few interesting facts about me and my life. It been quite a journey f
 1. Traveling with Jashni
 1. Watching several of my TV shows.
 1. Working out whenever I have time.
-1. ***Enjoying video games undistracted.*** I currently playing:
+1. ***Enjoying video games undistracted.*** I am currently playing:
 + Monster Hunter World
 + Dissidia NT Final Fantasy
 
